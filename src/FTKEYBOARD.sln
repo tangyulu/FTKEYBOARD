@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTKEYBOARD.Protocol", "FTKE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTKEYBOARD.Application", "FTKEYBOARD.Application\FTKEYBOARD.Application.csproj", "{563592D0-838D-4501-A9EE-0043C7CA304D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FTKEYBOARD.IO", "FTKEYBOARD.IO\FTKEYBOARD.IO.csproj", "{9E9853B4-5316-4977-AE16-EEBDAF81D0DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +75,16 @@ Global
 		{563592D0-838D-4501-A9EE-0043C7CA304D}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{563592D0-838D-4501-A9EE-0043C7CA304D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{563592D0-838D-4501-A9EE-0043C7CA304D}.Release|x86.ActiveCfg = Release|Any CPU
+		{9E9853B4-5316-4977-AE16-EEBDAF81D0DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E9853B4-5316-4977-AE16-EEBDAF81D0DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E9853B4-5316-4977-AE16-EEBDAF81D0DE}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{9E9853B4-5316-4977-AE16-EEBDAF81D0DE}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{9E9853B4-5316-4977-AE16-EEBDAF81D0DE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9E9853B4-5316-4977-AE16-EEBDAF81D0DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E9853B4-5316-4977-AE16-EEBDAF81D0DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E9853B4-5316-4977-AE16-EEBDAF81D0DE}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{9E9853B4-5316-4977-AE16-EEBDAF81D0DE}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{9E9853B4-5316-4977-AE16-EEBDAF81D0DE}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

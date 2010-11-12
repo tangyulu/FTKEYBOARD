@@ -11,8 +11,8 @@ namespace FTKEYBOARD.Protocol
 
         public enum FTKEYBOARDOPcodes : byte
         {
-            Reach_PING = 0x00,
-            Reach_PONG = 0x01,
+            FTKEYBOARD_PING = 0x00,
+            FTKEYBOARD_PONG = 0x01,
 
             FTKEYBOARD_LOGIN_REQ = 0x10,
             FTKEYBOARD_LOGIN_RES = 0x11,
